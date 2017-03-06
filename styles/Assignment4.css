@@ -1,0 +1,19 @@
+section.area1 {visibility: hidden ; width: 600px ; background-color: #669999 ; }
+
+section.area2 {visibility: hidden ; width: 600px ; background-color: #a3a375 ;position: relative ; bottom: 490px;}
+
+#hunt1 {width: 200px ; height: 200px; }
+
+#college3 {height: 200px; width: 200px; }
+
+#hunt2 { height: 200px; width: 200px; }
+
+#college1 {height: 200px; width: 200px; }
+
+#hunt3 {height: 200px; width: 200px; }
+
+#college2 {height: 200px; width: 200px; }
+
+footer {position: relative; bottom: 490px; font-style: italic; width: 600px; background-color: #EEEEEE; text-align: center; }
+
+h1 {text-align: center; font-family: sans-serif; }
